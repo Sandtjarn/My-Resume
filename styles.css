@@ -1,0 +1,54 @@
+
+
+
+   
+body {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 750px;
+    margin: auto;
+    background-image: url("./Assets/Images/developer-8764523.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+img {
+    border-radius: 10%;
+    
+}
+
+#all {
+    border-radius: 25px;
+    padding: 1rem 1rem;
+}
+
+#name-img, #summary, #education, #work-experience, #about-me-div {
+    border-radius: 25px;
+    background-color: lightslategrey;
+    padding: 1rem 5rem;
+}
+
+.Education-list-headline, .work-experience-headline-list {
+    text-decoration-line: underline;
+    font-weight: bold;
+}
+
+ul {
+    padding: 1rem 1rem;
+    max-width: 500px;
+    justify-content: left;
+    margin: auto;
+    text-align: left;
+}
+
+.ext-links, #copyright {
+    color: aliceblue;
+}
+
+ul, #summary-description {
+    position: relative;
+}
+
+
+
+
